@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContactApp(FinalProject)</string>
+    <string name="name">Name</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="sort">Sort</string>
+    <string name="search">Search</string>
+    <string name="deleteall">DeleteAll</string>
+    <string name="deleteAll">DeleteAll</string>
+    <string name="Sort">Sort</string>
+    <string name="Search">Search</string>
+    <string name="tod_o">TOD O</string>
+    <string name="todo">TODO</string>
+</resources>
